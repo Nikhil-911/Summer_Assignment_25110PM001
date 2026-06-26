@@ -2,7 +2,7 @@
 #include <iostream>
 #include <string> 
 
-using namespace std; 
+using namespace std;  
 
 // Global constants for array sizes
 const int MAX_RECIPES = 5;
