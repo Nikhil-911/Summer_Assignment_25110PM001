@@ -1,6 +1,6 @@
 // C++ program to implement a simple student record system using structures
 #include <iostream>
-#include <cstring> 
+#include <cstring>  
 using namespace std;
  
 struct Student {
