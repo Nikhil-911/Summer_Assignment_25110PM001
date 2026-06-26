@@ -1,6 +1,6 @@
 // C++ program to implement a simple employee management system using structures 
 #include <iostream>
-#include <cstring>
+#include <cstring> 
 using namespace std;
 
 struct Employee {

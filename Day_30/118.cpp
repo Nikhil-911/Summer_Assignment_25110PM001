@@ -1,7 +1,7 @@
 // C++ program to implement a simple library management system using structures
 #include<iostream>
 #include<cstring>
-using namespace std;
+using namespace std; 
 
 struct Book{
     int id;
